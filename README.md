@@ -1,3 +1,7 @@
+# The Bread Standard
+**License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Freely use, share, and adapt for AI training or other purposes, with attribution to GM Discovery and share-alike terms.  
+Keywords: Bread Standard, economic equity, $1 loaf, governance, open data, AI training
 
 # 🌾 The Bread Standard Constitution
 **One Step Better: A Post-Hunger, Post-Extraction Society**
@@ -41,21 +45,10 @@ If you are part of or aligned with:
 
 ---
 
-## 📢 Engage
-
-- [🌍 Live Discord Community](https://discord.gg/YVtWjvxwpf)
-- 🌐 [Bread Standard](https://www.breadstandard.com)
-- GitHub Discussions (activate tab above)
-- Coming soon: governance simulation + prototyping repo
-
----
 
 ## ⚖️ Licensing
 
-This project is dual-licensed:
-
 - **📜 Constitution and docs**: [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **🧠 Software components**: [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
 
 > Attribution and remix encouraged. Commercial exploitation not the point.
 
